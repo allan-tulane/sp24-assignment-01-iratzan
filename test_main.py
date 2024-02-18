@@ -52,3 +52,13 @@ def test_longest_run_recursive_hard():
     """
     assert to_value(longest_run_recursive([6, 12, 12, 12, 12, 6, 6, 6], 12)) == 4
 
+print(test_longest_run_none())
+print(test_longest_run())
+print(test_longest_run2())
+print(test_longest_run_hard())
+print(test_foo())
+print(test_foo2())
+test_longest_run_recursive_none()
+print(test_longest_run_recursive())
+print(test_longest_run_recursive2())
+print(test_longest_run_recursive_hard())

@@ -3,3 +3,5 @@
 Please check assignment-01.md or assignment-01.pdf
 
 You can include your written solutions in a new md or pdf file.
+
+answers in MD
